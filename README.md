@@ -10,12 +10,12 @@
 
 ### 🧑‍💻 关于我 | About Me
 
-我来自成都，2021 年开始从事前端开发，主力技术栈包括 Vue2、Vue3 和 Uniapp，也熟悉 Node.js 和 Python，平时喜欢折腾爬虫和自动化工具。
+2021 年开始从事前端开发，主力技术栈包括 Vue2、Vue3 和 Uniapp，也熟悉 Node.js 和 Python，平时喜欢折腾爬虫和自动化工具。
 独立开发并上架过 Flutter 应用至 iOS App Store，也做过日活数百、累计用户数万的微信小程序。
 此外，还开发了浏览器插件、VSCode 插件、Electron 应用，并发布过 npm 包，累计下载量达数千次。
 我热衷跨平台开发，专注于细节与体验，享受从 0 到 1 的创造过程，也乐于把它分享出来。
 
-> I'm a frontend developer based in Chengdu. Since 2021, I've worked with Vue2, Vue3, and Uniapp, and I'm also comfortable with Node.js and Python — often exploring web crawlers and automation tools for fun.
+> Since 2021, I've worked with Vue2, Vue3, and Uniapp, and I'm also comfortable with Node.js and Python — often exploring web crawlers and automation tools for fun.
 > I independently developed and released a Flutter app on the iOS App Store, and built a WeChat mini-program with tens of thousands of users and several hundred daily active users.
 I’ve also created browser extensions, VSCode plugins, Electron apps, and published an npm package with thousands of downloads.
 > I'm passionate about cross-platform development and pay attention to detail and user experience. I enjoy the journey of building from 0 to 1 — and sharing it with others along the way.
