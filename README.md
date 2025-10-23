@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58B0F6&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+Vue%2C+Uniapp%2C+Flutter;Python+Lover+%7C+Node.js+Tinkerer;Exploring+cross-platform+dev+from+Chengdu" />
 </p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaofeiwuuu&show_icons=true)
 ---
 
 ### 🧑‍💻 关于我 | About Me
