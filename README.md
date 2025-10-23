@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58B0F6&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+Vue%2C+Uniapp%2C+Flutter;Python+Lover+%7C+Node.js+Tinkerer;Exploring+cross-platform+dev+from+Chengdu" />
 </p>
 ---
-
+<details>
+  <summary>点我看答案（Spoiler）</summary>
+  
+答案：42
+</details>
 ### 🧑‍💻 关于我 | About Me
 
 我是一名前端开发者，主力技术栈为 Vue2 / Vue3 / Uniapp，也熟悉 Node.js 和 Python，常用这些技术去做自动化与跨平台探索。
